@@ -1,0 +1,104 @@
+{
+  "hackathons": [
+    {
+      "id": "txa-aghaaz-26",
+      "title": "Graphic Design Hackathon - Aghaaz '26",
+      "shortDescription": "Karachi's premier Graphic Design competition by Tech X Academy. Ideas meet creativity!",
+      "fullDescription": "Aghaaz '26 is Tech X Academy's official inaugural Graphic Design Hackathon in Karachi, Pakistan. Created for passionate visual designers, UI/UX creators, and digital artists. Demonstrate your mastery in branding, poster graphics, visual storytelling, and digital creative tools. WIN PKR 5,000 CASH PRIZE + OFFICIAL GRAPHIC DESIGN INTERNSHIP OFFER AT TECH X ACADEMY KARACHI! Event Timing: 3:00 PM to 5:00 PM on 1st August 2026. Results announced at 6:00 PM!",
+      "bannerUrl": "/images/aghaaz26_poster.jpg",
+      "startDate": "2026-08-01T15:00:00Z",
+      "endDate": "2026-08-01T17:00:00Z",
+      "registrationStartDate": "2026-07-20T00:00:00Z",
+      "registrationEndDate": "2026-07-31T23:59:59Z",
+      "venue": "New Karachi Ikhwan Masjid (Females: 1st Floor Hall | Males: Ground Floor Digital Lab)",
+      "mode": "In-Person (Karachi)",
+      "maxParticipants": 150,
+      "teamSizeLimit": 1,
+      "allowTeams": true,
+      "registrationFee": "PKR 200",
+      "prizes": [
+        {
+          "title": "1st Place Winner (Aghaaz Champion)",
+          "amount": "PKR 5,000 CASH PRIZE",
+          "description": "PKR 5,000 Cash Prize + Official Graphic Designing Internship Offer at Tech X Academy Karachi + Winner Shield"
+        },
+        {
+          "title": "Graphic Design Internship",
+          "amount": "Guaranteed Internship Offer",
+          "description": "Direct internship placement offer at Tech X Academy Karachi for top performer"
+        }
+      ],
+      "rules": [
+        "Registration fee is PKR 200 per participant (Pay via JazzCash 03212260509 Title: Muhammad Sufiyan or at Campus Desk).",
+        "Registration Deadline: 31st July 2026 until 11:59 PM (Rat 12 baje tak).",
+        "Event Timing: 3:00 PM to 5:00 PM on 1st August 2026.",
+        "Result Announcement: 6:00 PM Sharp on event day.",
+        "Location: New Karachi Ikhwan Masjid (Females: 1st Floor Ikhwan Masjid Hall | Males: Ground Floor Ikhwan Digital Lab).",
+        "Team size is 1 member (solo entry), but a team name or artist alias is required.",
+        "All graphic design submissions must be created during the hackathon duration using design software (Photoshop, Illustrator, Figma, Canva, etc.).",
+        "Original assets only. Plagiarism will result in immediate disqualification.",
+        "Decisions made by Tech X Academy jury panel are final."
+      ],
+      "eligibility": [
+        "Students, FIT enrollees, visual artists, and graphic designers in Karachi & Sindh."
+      ],
+      "tracks": [
+        {
+          "id": "track-branding",
+          "name": "Brand Identity & Visual Design",
+          "description": "Create full brand identity systems and logo concepts."
+        },
+        {
+          "id": "track-poster",
+          "name": "Event Posters & Key Visuals",
+          "description": "Craft compelling promotional posters and key visual graphics."
+        },
+        {
+          "id": "track-uiux",
+          "name": "UI/UX & Web Graphics",
+          "description": "Design modern web and mobile user interface visuals."
+        }
+      ],
+      "timeline": [
+        {
+          "title": "Registration Opens",
+          "date": "July 20, 2026",
+          "description": "Submit online application & pay PKR 200 fee.",
+          "isCompleted": true
+        },
+        {
+          "title": "Registration Deadline",
+          "date": "July 31, 2026 (11:59 PM Midnight)",
+          "description": "Final deadline to register and submit payment proof.",
+          "isCompleted": false
+        },
+        {
+          "title": "Hackathon Starts",
+          "date": "August 1, 2026 (03:00 PM)",
+          "description": "Graphic design challenge kicks off at New Karachi Ikhwan Masjid.",
+          "isCompleted": false
+        },
+        {
+          "title": "Hackathon Concludes & Submissions",
+          "date": "August 1, 2026 (05:00 PM)",
+          "description": "Final artwork submission and jury evaluation.",
+          "isCompleted": false
+        },
+        {
+          "title": "Result Announcement & Award Ceremony",
+          "date": "August 1, 2026 (06:00 PM)",
+          "description": "PKR 5,000 Cash Prize & Graphic Design Internship ceremony.",
+          "isCompleted": false
+        }
+      ],
+      "status": "open",
+      "featured": true,
+      "organizer": "Tech X Academy, Karachi",
+      "createdAt": "2026-07-22T00:00:00.000Z",
+      "updatedAt": "2026-07-22T00:00:00.000Z"
+    }
+  ],
+  "registrations": [],
+  "announcements": [],
+  "counter": 0
+}

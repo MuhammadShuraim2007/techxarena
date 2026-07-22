@@ -1,0 +1,6 @@
+{
+  "name": "Tech X Arena - Hackathon Portal",
+  "description": "Official Hackathon Portal for Tech X Academy, Karachi. Multi-hackathon platform with automated WhatsApp notifications, unique ID card generation, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
