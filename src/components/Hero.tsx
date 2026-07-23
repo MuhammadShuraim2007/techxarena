@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Trophy, Users, ShieldCheck, Zap, Sparkles, ArrowRight, Play, Clock, Code2 } from 'lucide-react';
 import heroBgImg from '../assets/images/hackathon_hero_bg_1784655148853.jpg';
 import logoImg from '../assets/images/techx_academy_logo_1784655126257.jpg';
+import posterImg from '../assets/images/aghaaz26_poster_1784702908845.jpg';
 
 interface HeroProps {
   onExploreClick: () => void;
@@ -155,7 +156,7 @@ export const Hero: React.FC<HeroProps> = ({
               {/* Poster Image */}
               <div className="rounded-2xl overflow-hidden border border-white/10 mb-4 bg-black aspect-video relative group">
                 <img 
-                    src={posterImg}
+                  src={posterImg}
                   alt="Aghaaz '26 Graphic Design Hackathon Poster" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   referrerPolicy="no-referrer"
