@@ -155,7 +155,7 @@ export const Hero: React.FC<HeroProps> = ({
               {/* Poster Image */}
               <div className="rounded-2xl overflow-hidden border border-white/10 mb-4 bg-black aspect-video relative group">
                 <img 
-                  src="/src/assets/images/aghaaz26_poster_1784702908845.jpg" 
+                    src={posterImg}
                   alt="Aghaaz '26 Graphic Design Hackathon Poster" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   referrerPolicy="no-referrer"
