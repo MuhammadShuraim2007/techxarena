@@ -77,7 +77,7 @@ async function startServer() {
         title,
         shortDescription,
         fullDescription,
-        bannerUrl: bannerUrl || '/images/aghaaz26_poster.jpg',
+        bannerUrl: bannerUrl || '/images/aghaaz26_poster_1784702908845.jpg',
         startDate: startDate || new Date().toISOString(),
         endDate: endDate || new Date(Date.now() + 86400000 * 2).toISOString(),
         registrationStartDate: registrationStartDate || new Date().toISOString(),
